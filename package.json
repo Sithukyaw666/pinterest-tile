@@ -1,0 +1,23 @@
+{
+  "name": "pinterest-tile",
+  "version": "1.0.0",
+  "description": "Pinterest style grid layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sithukyaw666/pinterest-tile.git"
+  },
+  "keywords": [
+    "Pinterest",
+    "Grid"
+  ],
+  "author": "Sithu Kyaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sithukyaw666/pinterest-tile/issues"
+  },
+  "homepage": "https://github.com/Sithukyaw666/pinterest-tile#readme"
+}
